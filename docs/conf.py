@@ -13,7 +13,7 @@ sys.path.insert(0, os.path.abspath('../src'))
 project = "PartiGraph"
 copyright = "2025, Todd Proebsting"
 author = "Todd Proebsting"
-release = "0.1.0"
+release = "0.1.1"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
