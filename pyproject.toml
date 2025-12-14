@@ -33,6 +33,8 @@ docs = [
 ]
 
 [project.urls]
+Homepage = "https://github.com/proebsting/partigraph"
+Documentation = "https://proebsting.github.io/partigraph/"
 Repository = "https://github.com/proebsting/partigraph"
 
 [tool.setuptools.packages.find]
